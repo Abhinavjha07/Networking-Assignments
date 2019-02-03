@@ -1,0 +1,9 @@
+Name Salary Department_Name
+Rohit 10000 Metallurgy
+Sandeep 8000 Chemistry
+Sumit 12000 Robotics
+Ankur 11000 Chemistry
+Gagan 19000 Communication
+Sangam 15000 Chemistry
+Soumitra 6000 Metallurgy
+Subhashis 9000 HR
