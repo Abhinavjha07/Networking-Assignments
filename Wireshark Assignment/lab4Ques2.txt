@@ -1,0 +1,12 @@
+1-Source: 192.168.1.101
+			ICMP
+
+2-20 bytes are in the IP header
+			Payload is 40 because total length is 56.
+
+3- No. As fragment offset is 0.
+
+4-Change- Frame, Identification and Time to live.
+			Constant- Header length, Protocol, Source and Destination.
+
+5- Time to live and identification goes up by one.
